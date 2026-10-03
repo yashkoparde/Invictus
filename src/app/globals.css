@@ -78,3 +78,5 @@ body {
   -webkit-text-stroke: 1px var(--invictus-yellow);
   color: var(--invictus-yellow);
 }
+
+/* style: customize webkit scrollbar and typography utility rules */
