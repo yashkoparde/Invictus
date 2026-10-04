@@ -29,5 +29,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-/* feat(layout): configure viewport metadata and SEO description tags */
