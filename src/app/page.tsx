@@ -937,5 +937,3 @@ function AnimatedText({ text }: { text: string }) {
     </motion.div>
   )
 }
-
-/* feat(home): integrate Three.js interactive 3D particle canvas */
