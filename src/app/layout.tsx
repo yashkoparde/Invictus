@@ -29,3 +29,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+/* feat(layout): wire glass Navbar and Footer into main shell */
