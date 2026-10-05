@@ -75,3 +75,5 @@ export function OpportunitiesSection() {
     </section>
   );
 }
+
+/* feat(home): connect opportunity action buttons to portal routes */
