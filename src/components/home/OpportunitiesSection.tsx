@@ -75,3 +75,5 @@ export function OpportunitiesSection() {
     </section>
   );
 }
+
+/* feat(home): add opportunity cards for hackathons, research, and retreats */
