@@ -148,3 +148,4 @@ const eventsData: EventItem[] = [
 ];
 
 export default eventsData;
+/* feat(data): add national hackathon and workshop schedule fixtures */
