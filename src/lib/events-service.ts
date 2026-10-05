@@ -33,5 +33,3 @@ export async function getEvents(): Promise<EventItem[]> {
     return fallbackEvents;
   }
 }
-
-/* feat(lib): map database snake_case columns to frontend types */
