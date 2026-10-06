@@ -229,5 +229,3 @@ export default function IdeathonsPage() {
     </main>
   );
 }
-
-/* feat(ideathons): add ideathon problem statements grid layout */
