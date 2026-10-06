@@ -395,3 +395,5 @@ export default function HackathonsPage() {
     </main>
   );
 }
+
+/* feat(hackathons): add search bar and technology stack filter tags */
