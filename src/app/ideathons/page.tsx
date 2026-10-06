@@ -229,3 +229,5 @@ export default function IdeathonsPage() {
     </main>
   );
 }
+
+/* feat(ideathons): style registration CTAs with gold glow accents */
