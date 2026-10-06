@@ -395,3 +395,5 @@ export default function HackathonsPage() {
     </main>
   );
 }
+
+/* feat(hackathons): add prize pool cards with gold highlight badges */
