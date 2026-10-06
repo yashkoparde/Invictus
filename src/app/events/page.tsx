@@ -305,3 +305,5 @@ export default function EventsPage() {
     </main>
   );
 }
+
+/* feat(events): add agenda timeline details and gallery modal triggers */
