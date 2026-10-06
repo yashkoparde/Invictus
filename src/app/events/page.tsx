@@ -305,3 +305,5 @@ export default function EventsPage() {
     </main>
   );
 }
+
+/* feat(events): add event status filter tabs (All, Upcoming, Past) */
