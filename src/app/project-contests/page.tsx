@@ -238,3 +238,5 @@ export default function ProjectContestsPage() {
     </main>
   );
 }
+
+/* feat(contests): implement leaderboard preview for top member projects */
