@@ -374,5 +374,3 @@ export default function OffsiteProjectDevPage() {
     </main>
   );
 }
-
-/* feat(dev): add client project portfolio cards and tech stack tags */
