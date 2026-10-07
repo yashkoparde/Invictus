@@ -340,5 +340,3 @@ export default function FreelanceWorkPage() {
     </main>
   );
 }
-
-/* feat(freelance): create client inquiry project request card */
