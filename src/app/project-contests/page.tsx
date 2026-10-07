@@ -238,5 +238,3 @@ export default function ProjectContestsPage() {
     </main>
   );
 }
-
-/* feat(contests): design contest listing layout with status tags */
