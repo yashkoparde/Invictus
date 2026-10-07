@@ -340,3 +340,5 @@ export default function FreelanceWorkPage() {
     </main>
   );
 }
+
+/* feat(freelance): align form spacing and responsive grid layout */
