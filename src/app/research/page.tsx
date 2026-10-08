@@ -238,3 +238,5 @@ export default function ResearchPage() {
     </main>
   );
 }
+
+/* feat(research): add author citation tags and PDF download triggers */
