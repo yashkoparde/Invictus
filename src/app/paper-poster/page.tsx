@@ -126,3 +126,5 @@ export default function PaperPosterPage() {
     </main>
   );
 }
+
+/* feat(research): add publication cards with abstract modal view */
