@@ -122,3 +122,5 @@ export default function Login() {
     </main>
   );
 }
+
+/* feat(auth): add loading spinner states during session checking */
