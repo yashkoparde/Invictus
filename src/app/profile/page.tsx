@@ -161,5 +161,3 @@ export default function Profile() {
     </main>
   );
 }
-
-/* feat(profile): implement protected route redirection for unauthenticated users */
