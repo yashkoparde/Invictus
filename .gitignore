@@ -49,3 +49,5 @@ admin-manager.py
 tools/
 invictus-admin-web/
 
+
+/* release: final production readiness check for Vercel edge deployment */
