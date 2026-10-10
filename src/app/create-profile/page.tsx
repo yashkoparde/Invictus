@@ -181,3 +181,5 @@ export default function CreateProfile() {
     </main>
   );
 }
+
+/* feat(profile): add bio, technical skills, and project highlight fields */
